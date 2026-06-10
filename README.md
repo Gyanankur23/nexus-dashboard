@@ -19,7 +19,7 @@
 [![Contributors](https://img.shields.io/badge/Contributors-Welcome-orange.svg?style=flat-square)](CONTRIBUTING.md)
 [![Documentation](https://img.shields.io/badge/Docs-Latest-blue.svg?style=flat-square)](ARCHITECTURE.md)
 
-[Live Demo]([https://nexus-dashboard.vercel.app](https://nexus-dashboard-hazel-kappa.vercel.app)) • [Documentation](#documentation) • [Report Bug](https://github.com/Gyanankur23/nexus-dashboard/issues) • [Request Feature](https://github.com/Gyanankur23/nexus-dashboard/issues)
+[Live Demo]([https://nexus-dashboard.vercel.app](https://nexus-dashboard-hazel-kappa.vercel.app/users)) • [Documentation](#documentation) • [Report Bug](https://github.com/Gyanankur23/nexus-dashboard/issues) • [Request Feature](https://github.com/Gyanankur23/nexus-dashboard/issues)
 
 </div>
 
